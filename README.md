@@ -4,10 +4,10 @@
 Read the following steps and guidelines properly for proper understanding of the basics of Github. It will help further while making project submission for Code Innovation Series. 
 
 ### Step 1
-#### Fork this repository
+ Fork this repository
 
 ### Step 2
-#### Create a New Folder within the forked repository, with the 'folder name' being your 'Your Name'
+Create a New Folder within the forked repository, with the 'folder name' being your 'Your Name'
 
 ## Contents of the folder
 Add a readme.md file to the folder, stating your Name and your skillset.
